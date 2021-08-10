@@ -6,4 +6,5 @@ Authorization added: admin login (miroslav, miroslav), user login (tamara, tamar
 Before launching frontend write in terminal - npm install
 
 Admin can edit and delete festivals, also he can add new.
+
 User can book tickets for festivals (limited number of tickets available).
